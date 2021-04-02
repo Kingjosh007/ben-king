@@ -1,3 +1,3 @@
 # Technical Documentation Page
 
-This Project was made in collaboration by @KingJosh007 and @BenMukebo as part of Microverse application process.
+This Project was made in collaboration with @BenMukebo as part of Microverse application process.
